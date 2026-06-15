@@ -5,7 +5,7 @@
 **Точная настройка Windows · Python · Desktop tools**
 
 [![CrimsonTune](https://img.shields.io/badge/🩸_CrimsonTune-v2.2.1-321_твик-d63031?style=for-the-badge)](https://github.com/expl01t-search/CrimsonTune)
-[![Release](https://img.shields.io/github/v/release/expl01t-search/CrimsonTune?style=for-the-badge&label=Release&color=8b1e1e)](https://github.com/expl01t-search/CrimsonTune/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v2.2.1-8b1e1e?style=for-the-badge)](https://github.com/expl01t-search/CrimsonTune/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10_x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/expl01t-search/CrimsonTune)
 
 </div>
