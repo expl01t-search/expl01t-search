@@ -4,7 +4,7 @@
 
 **Точная настройка Windows · Python · Desktop tools**
 
-[![CrimsonTune](https://img.shields.io/badge/🩸_CrimsonTune-v1.2.16-d63031?style=for-the-badge)](https://github.com/expl01t-search/CrimsonTune)
+[![CrimsonTune](https://img.shields.io/badge/🩸_CrimsonTune-v2.2.1-321_твик-d63031?style=for-the-badge)](https://github.com/expl01t-search/CrimsonTune)
 [![Release](https://img.shields.io/github/v/release/expl01t-search/CrimsonTune?style=for-the-badge&label=Release&color=8b1e1e)](https://github.com/expl01t-search/CrimsonTune/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10_x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/expl01t-search/CrimsonTune)
 
@@ -14,11 +14,11 @@
 
 ### 👋 Привет
 
-Разрабатываю **CrimsonTune** — desktop-оптимизатор Windows 10 на **PySide6** с умным сканированием, профилями и **179** твиками.
+Разрабатываю **CrimsonTune** — desktop-оптимизатор Windows 10 на **PySide6**: умное сканирование, **7 профилей**, автообновление и **321** твик (RU/EN).
 
 ```python
-stack = ["Python", "PySide6", "WinAPI", "PyInstaller"]
-focus = ["Windows tuning", "GPU tweaks", "Registry & services"]
+stack = ["Python 3.11+", "PySide6", "WinAPI", "PyInstaller"]
+focus = ["Windows tuning", "Privacy & debloat", "Registry · services · netsh"]
 ```
 
 ---
@@ -27,8 +27,9 @@ focus = ["Windows tuning", "GPU tweaks", "Registry & services"]
 
 | | |
 |---|---|
-| 🩸 **[CrimsonTune](https://github.com/expl01t-search/CrimsonTune)** | Твикер Windows 10 — DirectX, NVIDIA/AMD, Expert-режим, RU/EN |
-| ⬇️ [Скачать EXE](https://github.com/expl01t-search/CrimsonTune/releases/latest) | Готовая сборка без Python |
+| 🩸 **[CrimsonTune](https://github.com/expl01t-search/CrimsonTune)** | Performance · SSD · Gaming · Graphics · Network · Privacy · Expert |
+| ⬇️ [Скачать .zip](https://github.com/expl01t-search/CrimsonTune/releases/latest/download/CrimsonTune-v2.2.1-win64.zip) | Portable EXE без Python · запуск от администратора |
+| 📦 **Профили** | Balanced · Gamer Pro · Gaming Plus · Max Performance · Privacy · SSD · Ghost Superlite |
 
 ---
 
